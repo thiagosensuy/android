@@ -137,11 +137,12 @@ main strong{
 }
 
 main iframe{
-    width: 765px;
-    height: 400px;
+    width: 80%;
+    height: 300px;
     margin: auto;
     display: block;
     margin-bottom: 30px;
+    margin-top: 40px;
 }
 
 article img {
